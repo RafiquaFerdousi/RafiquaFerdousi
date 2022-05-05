@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RafiquaFerdousi
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning R, Python and SQL
+- 💞️ I’m looking to collaborate on analytic projects that involves data wrangling, vizualization, modeling, NPL, machine learning etc.
+- 📫 Please reach me at ferdousi.rafiqua@gmail.com
