@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafi
 - 👀 I’m interested in data science and software development.
-- 🌱 I’m currently learning R, Python and SQL. Planning to improve my front-end and UX skills.
+- 🌱 I’m currently learning R, Python and SQL. Planning to improve my data science and front-end skills.
 - 💞️ I’m looking to collaborate on analytic projects involving Data Wrangling, A/B testing, Modeling, NLP, ML etc.
 - 📫 Please reach me at ferdousi.rafiqua@gmail.com
