@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafi
 - 👀 I’m interested in data engineering, data science and web development
-- 🌱 I’m currently working to improve my skills in React and SQL
+- 🌱 I’m currently working to improve my skills in React, SQL and Python
 - 💞️ I’m looking to collaborate on projects  
 - 📫 Please reach me at ferdousi.rafiqua@gmail.com
